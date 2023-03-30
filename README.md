@@ -1,2 +1,2 @@
-# testTaller1
-taller 1 Programación Orientada Objetos
+# Test Taller #1
+Taller 1 Programación Orientada Objetos
